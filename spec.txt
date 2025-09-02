@@ -1,6 +1,6 @@
-Welcome to SHopEasy.
+Welcome to ShopEasy.
 Cart totals are shown in dollars (rounded) or in cents as $X.XX.
 Discounts apply before tax.
 Shipping cost is $5 flat.
 Promo codes are case-sensitive.
-Thank you for shopping.
+Thank you for shopping!
